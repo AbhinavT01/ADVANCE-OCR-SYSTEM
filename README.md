@@ -1,8 +1,8 @@
-# COTTHETA LLC OCR System
+# ADVANCE OCR System
 
-## **COTTHETA LLC OCR System**
+## ** Advance  OCR System**
 
-This repository houses an advanced OCR system developed during my internship at CotTheta LLC. The system excels in detecting and extracting text, autofilling extracted information into specified fields, and accurately identifying documents with paragraphs and handwritten content. It also robustly detects tabular data, whether handwritten or digital, enhancing its versatility in document processing." The results are then displayed on a Flask web server.
+This repository houses an advanced OCR system that excels in detecting and extracting text, autofilling extracted information into specified fields, and accurately identifying documents with paragraphs and handwritten content. It also robustly detects tabular data, whether handwritten or digital, enhancing its versatility in document processing." The results are then displayed on a Flask web server.
 
 ### Table of Contents
 
@@ -219,8 +219,5 @@ The Python script processes an image to detect text within table cells and gener
 - pp.py: sample  file  to check bank_data  algorithm
 - doc_text_detect2:  testing for  structured document data as present in file . but sometimes data  is very diSoriented.
 
-## Acknowledgements
-
-Special thanks to Ashish K. Dash and Mallesham katnam from CotTheta LLC for mentoring and guidance throughout this project.
 
 This updated README provides a comprehensive overview of your project, including installation instructions, usage, and detailed descriptions of each file's functionality, specifically highlighting the license and bank card recognition features, as well as the document detection capabilities, including handling multiple paragraphs and handwritten paragraphs using the Google Cloud Vision API. The additions also include descriptions for the testing scripts and the experimental auto-rotation script.
