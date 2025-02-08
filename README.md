@@ -21,8 +21,8 @@ This repository houses an advanced OCR system that excels in detecting and extra
 
 - **Clone the repository:**
   ```sh
-  git clone https://github.com/AbhinavT01/COTTHETA-LLC.git
-  cd COTTHETA-LLC
+  git clone https://github.com/AbhinavT01/ADVANCE-OCR-SYSTEM.git
+  cd ADVANCE-OCR-SYSTEM
 
 
 
@@ -45,7 +45,7 @@ This repository houses an advanced OCR system that excels in detecting and extra
 
 **File Structure**
 
-COTTHETA-LLC/
+ADVANCE-OCR-SYSTEM/
 │
 ├── Address.py                  
 ├── README.md                     
